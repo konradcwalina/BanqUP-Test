@@ -1,0 +1,17 @@
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\TestApp.UnitTests.deps.json
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\TestApp.UnitTests.runtimeconfig.json
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\TestApp.UnitTests.runtimeconfig.dev.json
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\TestApp.UnitTests.dll
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\TestApp.UnitTests.pdb
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\TestApp.dll
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\bin\Debug\netcoreapp2.1\TestApp.pdb
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\obj\Debug\netcoreapp2.1\TestApp.UnitTests.csprojAssemblyReference.cache
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\obj\Debug\netcoreapp2.1\TestApp.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\obj\Debug\netcoreapp2.1\TestApp.UnitTests.AssemblyInfoInputs.cache
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\obj\Debug\netcoreapp2.1\TestApp.UnitTests.AssemblyInfo.cs
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\obj\Debug\netcoreapp2.1\TestApp.UnitTests.csproj.CopyComplete
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\obj\Debug\netcoreapp2.1\TestApp.UnitTests.dll
+C:\Users\cwali\source\repos\TestApp\TestApp.UnitTests\obj\Debug\netcoreapp2.1\TestApp.UnitTests.pdb
